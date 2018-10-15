@@ -1,0 +1,433 @@
+html, body {
+    font-family: 'Book Antiqua', sans-serif;
+    font-size: 14px;
+    padding: 0px;
+    margin: auto;
+}
+.main-header {
+    width: 990px;
+    margin: 0 auto;
+}
+.logo {
+    float: left;
+}
+.search {
+    float: right;
+}
+.share {
+    margin-left: auto;
+    width: 130px;
+    height: 50px;
+    margin-top: 30px;
+}
+.social-vk {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-image: url("../img/iconvk.png");
+    background-repeat: no-repeat;
+}
+.social-fb {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-image: url("../img/iconfb.png");
+    background-repeat: no-repeat;
+}
+.social-twitter {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-image: url("../img/icontwitter.png");
+    background-repeat: no-repeat;
+}
+.main-navigation {
+    width: 760px;
+    float: right;
+    margin-bottom: 10px;
+}
+.main-navigation ul {
+    margin: 0;
+    padding: 0;
+}
+.main-navigation a {
+    display: block;
+    padding: 10px;
+    color:black;
+    text-decoration: none;
+}
+.main-navigation a:hover {
+    color: #2a639d;
+}
+.main-navigation li {
+    font-family: "Book Antiqua";
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 10px;
+    text-transform: uppercase;
+}
+.container {
+    width: 990px;
+    margin: 0 auto;
+}
+.main-block {
+    
+}
+h1 {
+    margin: -10px;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Book Antiqua";
+}
+.theme {
+    text-transform: uppercase;
+    text-align: center;
+    color: #7d7f7d;
+    font-size: 16px;
+}
+.center {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 450px;
+}
+.second-line {
+    margin-top: 50px;
+}
+.block-small-1 {
+    width: 300px;
+    float: left;
+    margin-right: 45px;
+}
+.block-small-2 {
+    width: 300px;
+    float: left;
+}
+.block-small-3 {
+    width: 300px;
+    float: right;
+}
+.block-medium-1 {
+    float: left;
+    width: 450px;
+    margin-top: 50px;
+}
+
+.block-medium-2 {
+    float: right;
+    width: 450px;
+    margin-top: 50px;
+    
+}
+.third-line {
+    
+}
+.description-small {
+    text-align: center;
+}
+.4th-block {
+    
+}
+.block-small-4 {
+    margin-top: 50px;
+    width: 300px;
+    float: left;
+    margin-right: 45px;
+    text-align: center;
+}
+.block-small-5 {
+    margin-top: 50px;
+    width: 300px;
+    float: left;
+    text-align: center;
+}
+.block-small-6 {
+    margin-top: 50px;
+    width: 300px;
+    float: right;
+    text-align: center;
+}
+.block-small-7 {
+    margin-top: 50px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-right: 45px;
+}
+.block-side {
+    float: right;
+    margin-top: 50px;
+}
+.block-small-8 {
+    margin-top: 50px;
+    float: left;
+    width: 300px;
+    text-align: center;   
+}
+.block-small-9 {
+    margin-top: 50px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-right: 45px;
+}
+.block-small-10 {
+    margin-top: 50px;
+    width: 300px;
+    float: left;
+    text-align: center;
+}
+.block-medium-11 {
+    margin-top: 50px;
+    float: left;
+    width: 450px;
+    text-align: center;
+}
+.block-medium-12 {
+    float: right;
+    width: 450px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn {
+    clear: both;
+    
+}
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    font-family: "Book Antiqua";
+    font-size: 24px;
+    border: solid;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 5px;
+}
+footer {
+    clear: both;
+    background-color: #000;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    
+}
+.footer-content {
+    width: 990px;
+    margin: 0 auto;
+}
+.footer-navigation {
+    margin-top: 15px;
+    display: inline-block;
+    width: 250px;
+}
+.footer-navigation li {
+    color: white;
+    list-style-type: none;
+}
+
+.footer-navigation a {
+    display: inline-block;
+    font-family: "Book Antiqua";
+    font-size: 24px;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-family: "Book Antiqua";
+}
+.footer-navigation a:hover {
+    color: #b1b1b1;
+}
+.social-footer {
+    width: 250px;
+    float: right;
+    
+}
+.we_are {
+    font-size: 24px;
+    color: white;
+    font-family: "Book Antiqua";
+}
+.social-vk-white {
+    display: inline-block;
+    width: 65px;
+    margin-right: 10px;
+    text-align: center;
+    height: 50px;
+    background-image: url("../img/iconvk_.png");
+    background-repeat: no-repeat;
+}
+.social-fb-white {
+    display: inline-block;
+    width: 40px;
+    margin-right: 5px;
+    text-align: center;
+    height: 60px;
+    background-image: url("../img/iconfb_.png");
+    background-repeat: no-repeat;
+}
+.social-twitter-white {
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/icontw_.png");
+    background-repeat: no-repeat;
+}
+
+.info p {
+    color: lightgray;
+    display: block;
+    font-family: "Book Antiqua";
+    margin: 0 auto;
+    width: 520px;
+    font-size: 14px;
+    text-align: center;
+}
+.paginator {
+    clear: both;
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+    white-space: nowrap;
+}
+.paginator a,
+.paginator span {
+    display: inline-block;
+    min-width: 20px;
+    height: 40px;
+    padding: 0 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: black;
+}
+.grid {
+    font-size: 18px;
+    line-height: 32px;
+    width: 930px;
+    margin: 0 auto;
+}
+.first-paragraph {
+    font-weight: bold;
+}
+.other-articals {
+    display: block;
+    margin-bottom: 450px;
+}
+.read-more {
+    width: 150px;
+    font-family: "Book Antiqua";
+    font-size: 20px;
+    margin-bottom: 50px
+}
+.autor-share {
+    float: left;
+    display: inline-block;
+}
+.autors-name-1 {
+    float: left;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.autor-description-1 {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.block-228 {
+    display: block;
+    width: 440px;
+    height: 150px;
+    float: right;
+}
+.pic-block {
+    display: inline-block;
+    float: left;
+    margin-bottom: 20px;
+}
+.read-more {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    clear: both;
+}
+.autor-description {
+    font-style: italic;
+}
+.autor-name {
+    font-size: 21px;
+    font-weight: bold;
+}
+.text-search {
+    display: inline-block;
+    width: 400px;
+    float: left;
+    margin-top: 20px;
+}
+.search-h1 {
+    text-align: left;
+    margin: 1px;
+}
+.theme-2 {
+    display: inline-block;
+    font-size: 21px;
+    color: #7d7f7d;
+}
+.pic-search{
+    display: block;
+    margin-bottom: 50px;
+    float: left;
+    margin-right: 40px;
+    
+}
+.search-block {
+    clear: both;
+    
+}
+.search-result {
+    float: left;
+    width: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.word-result {
+    display: block;
+    margin-bottom: 10px;
+    width: auto;
+    color: #072175;
+    font-size: 32px;
+}
+.2nd-line {
+    display: inline-block;
+    font-size: 20px;
+}
+.search-menu {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.autors-info {
+    margin-top: 30px;
+}
+.autors-picture {
+    float: left;
+    margin-right: 40px;
+}
+.autors-info {
+    float: left;
+}
+.autors-header {
+    display: inline-block;
+    width: auto;
+    margin-bottom: 10px;
+    margin-left: 1px;
+}
+.autors-text {
+    width: 430px;
+}
